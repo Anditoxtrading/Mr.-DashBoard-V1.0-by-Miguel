@@ -1,6 +1,5 @@
 # Mr. DashBoard - Bybit Futures Dashboard
 
-![Mr. DashBoard](https://your-image-url.com/banner.png)  
 
 ## Descripción 📊
 
