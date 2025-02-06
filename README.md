@@ -66,23 +66,4 @@ Luego, abre tu navegador y accede a:
 
 ---
 
-## ⚠️ Notas
-
-- La API de Bybit tiene **restricciones de solicitudes por minuto**. Consulta la [documentación oficial](https://bybit-exchange.github.io/docs/) si necesitas más información.
-- **Usa credenciales seguras** y nunca las compartas públicamente.
-
----
-
-## 📜 Licencia
-
-Este proyecto es de código abierto y se distribuye bajo la licencia **MIT**.  
-¡Si te gusta este proyecto, no dudes en hacer un **⭐ Star** y contribuir! 🚀
-
----
-
-## 💡 Contacto y Contribuciones
-
-📩 ¿Tienes sugerencias o mejoras? ¡Tu contribución es bienvenida! Abre un **issue** o haz un **pull request**.
-
-🔗 **Autor:** [Tu Nombre](https://github.com/tu-usuario)
 
